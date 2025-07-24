@@ -1,0 +1,2 @@
+Default API key = pcsk_2k8Tpg_H5zsfqNgcsBDrnjW54wy2krVun8amRV78iyoQUm9Br52nUfBsbzUvhXDRYjoMtg
+Test API key = pcsk_4yVniF_Jx4aHfnwUpzgAdsieVT1tXHu6UzX6WPkgWnwXoBaQ8EvE3weJ9XWLmhZHbfCuvn 
